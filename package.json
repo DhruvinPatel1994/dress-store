@@ -1,0 +1,33 @@
+{
+  "name": "dress-store",
+  "version": "1.0.0",
+  "description": "This is an online dress store api project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DhruvinPatel1994/dress-store"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "store",
+    "crud",
+    "operations",
+    "nodejs"
+  ],
+  "author": "Dhruvin Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhruvinPatel1994/dress-store"
+  },
+  "homepage": "https://github.com/DhruvinPatel1994/dress-store#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.2",
+    "nodemon": "^3.0.3"
+  }
+}
